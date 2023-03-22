@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jai7275
-- 👀 I’m interested in software engineering.
+- 👋 Hi, I am Jai7275.
+- 👀 I’m interested in Web Development & software engineering.
 - 🌱 I’m currently learning & exploring coding world.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
