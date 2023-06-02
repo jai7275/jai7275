@@ -1,7 +1,7 @@
 - 👋 Hi, I am Jai7275.
 - 👀 I’m interested in Web Development & software engineering.
-- 🌱 I’m currently learning & exploring coding world.
-- 💞️ I’m looking to collaborate on ...
+- I have good knowledge and understanding of web development skills 
+- 💞️ I’m looking for opportunities as a web developer ...
 - 📫 How to reach me ...
 
 <!---
